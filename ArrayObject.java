@@ -8,7 +8,7 @@ class Student {
         this.mark = mark;
         this.name = name;
     }
-
+  
     // Method to display student details
     void display() {
         System.out.println("Roll No: " + rollno + ", Name: " + name + ", Marks: " + mark);
